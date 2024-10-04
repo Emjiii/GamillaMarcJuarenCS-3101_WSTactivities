@@ -1,0 +1,182 @@
+html, body, main{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header{
+    display: flex;
+    position: fixed;
+    align-items: center;
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    padding-left: 30px;
+    color: #ECDFCC;
+    font-family: sans-serif;
+    background-color: #1e201e;
+    z-index: 1000; 
+    font-size: 15px;
+    gap: 30px;
+    height: 60px;
+}
+
+
+body{
+    display: flex;
+    background-image: url("assets/visionBoardBg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    max-width: 1224px;
+    width: 35%;
+    height: 65%;
+    padding: 20px;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: transparent; 
+    backdrop-filter: blur(20px);
+    background-image: linear-gradient(
+        120deg,
+        rgb(30, 32, 30, 0.2),
+        rgb(236, 223, 204, 0.3)
+    );
+    margin-top: 80px;
+    padding-bottom: 30px;
+}
+
+.row1{    
+    display: flex;
+    direction: row;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 40px;
+    height: 40%;
+}
+
+.row2{    
+    display: flex;
+    direction: row;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+
+.vertical1, .vertical2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 25px;
+}
+
+.items{
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.imgSize{
+    width: 120%;
+    height: 120%;
+    border-radius: 10px;
+}
+
+.text1{
+    display: flex;
+    font-family: "Alex Brush", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 45px;
+    color: whitesmoke;
+  }
+
+h3, .goals{
+   color: #ECDFCC;
+}
+
+h3{
+    text-align: center; 
+}
+
+ul {
+    font-size: 15px;
+    font-family: sans-serif;
+    list-style-type: none;
+    padding: 0; 
+    text-align: center;
+}
+
+.goals{
+    font-family: sans-serif;
+    background-color: #1e201e;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 110%;
+}
+
+footer {
+    background-color: #1e201e;
+    color: #ECDFCC;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    margin-top: auto;
+}
+
+
+.word{
+    color: #ECDFCC;
+    font-family: "Alex Brush", cursive;
+    font-size: 40px;
+    width: 120%;
+    height: 120%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    opacity: 0;
+    transition: 0.6s;
+}
+
+.word2:hover{
+    opacity: 1;
+}
+
+.word:hover{
+    opacity: 1;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.social-media {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-media li a {
+    color: #ECDFCC;
+    text-decoration: none;
+}
+
+.social-media li a:hover {
+    text-decoration: underline;
+}
