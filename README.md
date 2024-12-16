@@ -128,7 +128,7 @@ I enhanced my previous **Exercise Set 2** by adding modern design features and r
 
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Emjiii/GamillaMarcJuarenCS-3101_WSTactivities.git
 
 2. Navigate to each lab activity folder.
 3. Open the .html file in your preferred browser to view the completed work.
