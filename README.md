@@ -11,8 +11,10 @@ This repository contains the **completed lab activities** for the Web Systems an
 **📄 Description:**  
 I created an HTML file that displays my class schedule and includes a footer section listing my courses. Internal and inline styles were applied for a simple yet effective design.  
 
-![Class Schedule](Laboratory Activities/Laboratory Activity 1/output-image/image.png)
-![Class Schedule](image-2.png)
+Preview:
+
+![Class Schedule](Laboratory%20Activities/Laboratory%20Activity%201/output-image/image.png)
+![Class Schedule](Laboratory%20Activities/Laboratory%20Activity%201/output-image/image-2.png)
 
 **✨ Features:**  
 - 📅 A table to display my class schedule.  
@@ -29,7 +31,17 @@ I created an HTML file that displays my class schedule and includes a footer sec
 **🎯 Description:**  
 I designed a **personalized vision board webpage** using HTML and CSS with Flexbox. The vision board represents my aspirations and goals in a visually appealing format.  
 
-![Vision Board](relative/path/to/image.png)
+🔍 Preview 1:
+
+![Vision Board Output](Laboratory%20Activities/Laboratory%20Activity%202%20-04-10-2024/vision-board-output/vision-board-img.png)
+
+🔍 Preview 2:
+
+![Vision Board Output](Laboratory%20Activities/Laboratory%20Activity%202%20-04-10-2024/vision-board-output/hover-effect-vision-board.png)
+
+🔍 Preview 3: 
+
+![Vision Board Output](Laboratory%20Activities/Laboratory%20Activity%202%20-04-10-2024/vision-board-output/hover-effect-2.png)
 
 
 **✨ Features:**  
@@ -47,6 +59,17 @@ I designed a **personalized vision board webpage** using HTML and CSS with Flexb
 **⚙️ Description:**  
 I developed a **Word and Sentence Counter** tool using JavaScript that dynamically updates as users type.  
 
+🔍 Preview 1:
+
+![Word and Sentence Counter](Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/word-sentence-ctr-output/without-paragraph.png)
+
+🔍 Preview 2:
+
+![Word and Sentence Counter](Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/word-sentence-ctr-output/with-paragraph.png)
+
+
+[Download/View the Video ▶️](Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/word-sentence-ctr-output/demo.mp4)
+
 **✨ Features:**  
 1. **📄 HTML Structure:**  
    - 🏷️ A heading: *"Word and Sentence Counter"*.  
@@ -56,6 +79,7 @@ I developed a **Word and Sentence Counter** tool using JavaScript that dynamical
 
 2. **🎨 CSS Styling:**  
    - 🧑‍🎨 Clean and user-friendly interface with custom styles.  
+   - 🌊 Added a **blob animation background** for a modern, dynamic look.  
 
 3. **🧠 JavaScript Functionality:**  
    - 🔄 Automatically updates word and sentence counts as the user types.  
@@ -68,6 +92,29 @@ I developed a **Word and Sentence Counter** tool using JavaScript that dynamical
 
 **🌟 Description:**  
 I enhanced my previous **Exercise Set 2** by adding modern design features and responsive capabilities.  
+
+**BEFORE**:
+
+![Before](Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/personal-page-output/image.png
+)
+
+**AFTER**
+
+🔍 Preview 1:
+
+![Responsive Web Design](Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/personal-page-output/full-view.jpg
+)
+
+🔍 Preview 2:
+
+![Responsive Web Design](Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/personal-page-output/responsiveness-1.png
+)
+
+🔍 Preview 3: 
+
+![Responsive Web Design](Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/personal-page-output/responsiveness-2.png
+)
+
 
 **✨ Features:**  
 - 🎞️ Added animations for dynamic interactions.  
@@ -82,6 +129,9 @@ I enhanced my previous **Exercise Set 2** by adding modern design features and r
 1. Clone this repository to your local machine:  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to each lab activity folder.
+3. Open the .html file in your preferred browser to view the completed work.
 
 ## 🛠️ Tools and Technologies Used
 
