@@ -11,6 +11,9 @@ This repository contains the **completed lab activities** for the Web Systems an
 **📄 Description:**  
 I created an HTML file that displays my class schedule and includes a footer section listing my courses. Internal and inline styles were applied for a simple yet effective design.  
 
+![Class Schedule](Laboratory Activities/Laboratory Activity 1/output-image/image.png)
+![Class Schedule](image-2.png)
+
 **✨ Features:**  
 - 📅 A table to display my class schedule.  
 - 📝 A footer section listing my courses.  
@@ -25,6 +28,9 @@ I created an HTML file that displays my class schedule and includes a footer sec
 
 **🎯 Description:**  
 I designed a **personalized vision board webpage** using HTML and CSS with Flexbox. The vision board represents my aspirations and goals in a visually appealing format.  
+
+![Vision Board](relative/path/to/image.png)
+
 
 **✨ Features:**  
 - 🎨 Flexbox layout for a responsive design.  
